@@ -1,5 +1,4 @@
 import "./styles.css";
-import { arrayMove } from "@dnd-kit/sortable";
 import { useState } from "react";
 import { TreeNode } from "./TreeNode";
 import { TreeNodeType } from "./types";
